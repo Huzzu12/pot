@@ -11,3 +11,6 @@ After making change in any file
 then run > git add .
 > git commit -m ",,,,,,,,"
 > git push -u origin main 
+
+for the live html page > setting > pages > select source and main brance save.
+https://huzzu12.github.io/pot/
